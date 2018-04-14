@@ -1,10 +1,15 @@
 {
-  "name": "hexo-render-timqi",
+  "name": "hexo-filter-timqi",
   "version": "1.0.0",
-  "description": "",
+  "description": "a hexo filter for personal useage",
   "main": "index.js",
-  "author": "Tim Q.",
-  "license": "ISC",
+  "license": "MIT",
+  "author": "Tim Qi <i@timqi.com> (https://github.com/timqi)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timqi/hexo-filter-timqi"
+  },
+  "homepage": "https://github.com/timqi/hexo-filter-timqi",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2"
   }
