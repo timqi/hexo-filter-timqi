@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-timqi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a hexo filter for personal useage",
   "main": "index.js",
   "license": "MIT",
